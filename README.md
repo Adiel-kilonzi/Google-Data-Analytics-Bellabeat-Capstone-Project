@@ -1,4 +1,4 @@
 # Google-Data-Analytics-Bellabeat-Capstone-Project
-##Description
+## Description
 
 This is a short project done for *Google Data Analytics* course
